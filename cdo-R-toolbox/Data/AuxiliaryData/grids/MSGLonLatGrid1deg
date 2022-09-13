@@ -1,0 +1,7 @@
+gridtype = lonlat
+xfirst = -60.
+xinc = 1.0
+yfirst = -60
+yinc = 1.0
+xsize = 121
+ysize = 121
